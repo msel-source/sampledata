@@ -6,4 +6,4 @@ This dataset is approximately 300 MB, and represents 4 channels of canine intrac
 
 This dataset is intended to be a representative sample, and it includes multiple segments, and discontinuities which are from real-world issues like telemetry dropouts and battery recharging.
 
-Th data were recorded using the [meflib](https://github.com/msel-source/meflib) and [mefwriter](https://github.com/msel-source/mefwriter) code repositories.
+The data were recorded using the [meflib](https://github.com/msel-source/meflib) and [mefwriter](https://github.com/msel-source/mefwriter) code repositories.
