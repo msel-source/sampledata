@@ -6,4 +6,4 @@ This dataset is contains four EEG time-series data channels in MEF 3.0 format.  
 
 The data were converted to MEF 3.0 using the [meflib](https://github.com/msel-source/meflib) and [mefwriter](https://github.com/msel-source/mefwriter) code repositories.
 
-(This file updated September 2021, replacing aprevious dataset with this one).
+(This repository updated September 2021, replacing a previous dataset with this one).
