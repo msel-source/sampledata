@@ -10,4 +10,4 @@ The data were converted to MEF 3.0 using the [meflib](https://github.com/msel-so
 
 Below is a screenshot of what the first 30 seconds looks like when plotted.  (note the timestamp is displayed in Pacific Daylight time, which is GMT -7)
 
-![plot screenshot](https://github.com/msel-source/sampledata/blob/master/eeg_data_view.jpg?raw=true)
+![plot screenshot](https://github.com/msel-source/sampledata/blob/master/eeg_data_view2.jpg?raw=true)
